@@ -6,6 +6,7 @@ gem 'json'
 gem 'minitest'
 gem 'webmock'  
 gem 'vcr'
+gem 'google_places'
 
 group :setup do
  gem 'rake'
